@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import style from "../../assets/styles/main.css";
 import '../../assets/styles/sass/styles.scss';
 
 
